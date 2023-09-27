@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\bin\Debug\Burçlara Göre Renklerin Dili.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\bin\Debug\Burçlara Göre Renklerin Dili.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\bin\Debug\Burçlara Göre Renklerin Dili.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara Göre Renklerin Dili.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara Göre Renklerin Dili.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara_Göre_Renklerin_Dili.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara_Göre_Renklerin_Dili.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara Göre Renklerin Dili.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara Göre Renklerin Dili.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara Göre Renklerin Dili.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Burçlara Göre Renklerin Dili\Burçlara Göre Renklerin Dili\obj\Debug\Burçlara Göre Renklerin Dili.pdb
